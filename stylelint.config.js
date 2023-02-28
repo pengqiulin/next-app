@@ -3,4 +3,5 @@ module.exports = {
 	rules: {
 
 	},
+    exclude: ["node_modules"]
 }
